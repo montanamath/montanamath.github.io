@@ -1,37 +1,113 @@
-## Welcome to GitHub Pages
+# Current News
 
-You can use the [editor on GitHub](https://github.com/MontanaMath/montanamath.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## MCubed Conference
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[More information](https://sites.google.com/site/mctmmcubed/home)
 
-### Markdown
+[Register for the 2018 MCTM Montana Math Meet (MCubed) Conference](https://docs.google.com/forms/d/e/1FAIpQLSftMJZ3v2Q4OzCWbbalzGbwXRbwgO6sxnQBncecsSlB8j3u7Q/viewform)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pay for the MCubed conference with PayPal
 
-```markdown
-Syntax highlighted code block
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="YDCYSYH7AB9JA">
+<table>
+<tbody><tr><td><input type="hidden" name="on0" value="MCubed Registration">MCubed Registration</td></tr><tr><td><select name="os0">
+	<option value="MCTM Member">MCTM Member $33.00 USD</option>
+	<option value="Non-Member">Non-Member $58.00 USD</option>
+</select> </td></tr>
+</tbody></table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
 
-# Header 1
-## Header 2
-### Header 3
+## Follow us on Twitter
 
-- Bulleted
-- List
+[https://twitter.com/MCTMmath](https://twitter.com/MCTMmath)
 
-1. Numbered
-2. List
+## MCTM Blog
+[Read our blog](https://mctmnewsletter.blogspot.com)
 
-**Bold** and _Italic_ and `Code` text
+# General Information
+- [Montana Common Core State Standards and Assessments](http://opi.mt.gov/Curriculum/montCAS/MCCS/index.php)
+- [Desmos.com - Online graphing calculator](http://www.desmos.com)
 
-[Link](url) and ![Image](src)
+
+```html
+
+
+
+<li><h2>You can now pay your dues online!</h2></li>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="38QSMXKJ94LWE">
+<table>
+<tbody><tr><td><input type="hidden" name="on0" value="Dues Options">Dues Options</td></tr><tr><td><select name="os0">
+	<option value="1 Year - Regular">1 Year - Regular $20.00 USD</option>
+	<option value="2 Years - Regular">2 Years - Regular $30.00 USD</option>
+	<option value="10 Years - Regular">10 Years - Regular $150.00 USD</option>
+	<option value="Lifetime">Lifetime $200.00 USD</option>
+	<option value="Student - 1 Year">Student - 1 Year $10.00 USD</option>
+	<option value="Retired - FREE">Retired - FREE $0.00 USD</option>
+	<option value="MCTM &amp; MSTA - 1 yr">MCTM &amp; MSTA - 1 yr $40.00 USD</option>
+</select> </td></tr>
+</tbody></table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+<li><h3>Make a donation to the MCTM Scholarship Fund.</h3></li>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="SEB7428ZKGZSA">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+<li><h3>Make a donation to the Longhart Memorial Fund.</h3></li>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="9QP2D8ZDXBRUU">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+
+
+
+
+<li>
+<h3><a href="pdpresenters.doc">MCTM seeking Professional Developement Presenters</a></h3>
+</li>
+<li> <a href="nasa.doc">Information on how to get
+a NASA representative to speak at your school</a>
+</li>
+<li> <a href="mctmscholarships2013.doc">Apply
+for an Early Career teacher scholarship to attend a PDA<span style="color: red;">...for teachers with 1-5 years
+experience </span></a>
+</li>
+<li> <a href="mctmscholarships2013.doc">Information for teacher
+scholarships to attend a math conference or convention</a>
+</li>
+<li> <a href="http://www.math.montana.edu/MSMME ">Masters
+Degree Opportunity at MSU</a>
+</li>
+<li> <a href="http://www.umt.edu/math/graduate/">Masters
+Degree Opportunity at U of M</a>
+</li>
+
+<!--
+
+</li>
+	<li><a href="http://montanamath.org/riehl/">2010 Tony Riehl Sectional Materials</a> </li>
+
+ -->
+</ul>
+
+
+		</td>
+    
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MontanaMath/montanamath.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
